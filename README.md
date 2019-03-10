@@ -9,3 +9,6 @@ This is a companion repository for my [Protocol Buffers course](http://bit.ly/pr
 - Sample Code
 - Proper Gradle Setup
 - Few .proto files
+
+sample protobuf file raw
+`	*My Simple Message Name"`
