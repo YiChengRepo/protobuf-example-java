@@ -11,4 +11,4 @@ This is a companion repository for my [Protocol Buffers course](http://bit.ly/pr
 - Few .proto files
 
 sample protobuf file raw
-`	*My Simple Message Name"`
+`	*My Simple Message Name"<0x08>`
